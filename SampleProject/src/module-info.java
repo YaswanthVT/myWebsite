@@ -1,2 +1,2 @@
-module SampleProject {
-}
+
+class student {}
